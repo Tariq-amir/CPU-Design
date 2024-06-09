@@ -1,5 +1,5 @@
 # CPU-Design
-The circuit design was of a 5bit CPU with the ALU operations ADD, ROL & AND; AND and the ram size of 10x17 using Logissim app.
+The circuit design was of a 5bit CPU with the ALU operations ADD, ROL & AND; AND and the ram size of 10x17 using Logisim app.
 
 Build 5-bit Full Adder for ADD operation.
 
